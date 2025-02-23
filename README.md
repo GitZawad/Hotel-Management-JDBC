@@ -167,7 +167,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## Contact
 For any questions or feedback, feel free to reach out:
 - **GitHub:** [GitZawad](https://github.com/GitZawad)
-- **Email:** [zawaduddin@gmail.com]
+- **Email:** zawaduddin@gmail.com
 
 ---
 
